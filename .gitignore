@@ -1,0 +1,9 @@
+*.swp
+vendor/
+*.log.*
+*.log
+Vagrantfile
+DEVENV
+*~
+\#*\#
+.\#*
